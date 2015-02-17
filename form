@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>My Form</title>
+</head>
+    <body>
+	<form action="" method="POST">
+	    <label for="urname"> Your name: </label>
+		<input type="text" name="name" id="urname"/><br />
+	    <label for="passw"> Your password: </label>
+		<input type="password" name="passw" id="passw"/> <br />
+	<button type="submit">Log in</button>
+	</form>
+    </body>
+</html>
